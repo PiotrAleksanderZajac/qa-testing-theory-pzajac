@@ -1,3 +1,5 @@
+#  !!! THIS IS DRAFT !!! INITIAL VERSION !!!
+
 # 🧪 Software Testing Theory
 
 A structured, practical knowledge base covering the core theory of software testing.  
